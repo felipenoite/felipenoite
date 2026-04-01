@@ -88,4 +88,4 @@ Sou um profissional de **Quality Assurance** focado em garantir a entrega de sof
 </p>
 
 <p align="center">
-  <em>"Qualidade não é um ato, é
+  <em>"Qualidade não é um ato, é um hábito"</em>
