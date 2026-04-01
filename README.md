@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/felipenoite" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:felipeasnoite@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#90e3f5e5f5fdf1f9fcd0f5fdf1f9fcbef3fffd">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
@@ -63,12 +63,12 @@ Sou um profissional de **Quality Assurance** focado em garantir a entrega de sof
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipenoite&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenoite&layout=compact&langs_count=6&theme=default&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipenoite&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenoite&layout=compact&langs_count=6&theme=default&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipenoite&theme=default&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=felipenoite&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -88,5 +88,4 @@ Sou um profissional de **Quality Assurance** focado em garantir a entrega de sof
 </p>
 
 <p align="center">
-  <em>"Qualidade não é um ato, é um hábito." — Aristóteles</em>
-</p>
+  <em>"Qualidade não é um ato, é
