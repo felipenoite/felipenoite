@@ -63,8 +63,8 @@ Sou um profissional de **Quality Assurance** focado em garantir a entrega de sof
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipenoite&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenoite&layout=compact&langs_count=6&theme=default&hide_border=true&cache_seconds=1800"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipenoite&theme=default"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipenoite&theme=default"/>
 </p>
 
 <p align="center">
