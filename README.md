@@ -68,7 +68,7 @@ Sou um profissional de **Quality Assurance** focado em garantir a entrega de sof
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=felipenoite&theme=default&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=felipenoite&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
