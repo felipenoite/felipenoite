@@ -1,55 +1,52 @@
-<h1 align="center">Olá, sou Felipe Noite 👋</h1>
+<h1 align="center">👋 Olá, eu sou Felipe Noite</h1>
 
 <p align="center">
-  <strong>QA Engineer</strong> · Apaixonado por qualidade de software, automação e boas práticas de teste
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Automação+de+Testes;Cypress+%7C+Playwright+%7C+Robot+Framework;Garantindo+qualidade+em+cada+linha+de+código+🔍" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/felipenoite" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="/cdn-cgi/l/email-protection#90e3f5e5f5fdf1f9fcd0f5fdf1f9fcbef3fffd">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=felipenoite&color=2E9EF7&style=for-the-badge&label=VISITAS" alt="Profile views"/>
 </p>
 
 ---
 
-## 🧪 Sobre mim
+### 🧑‍💻 Sobre mim
 
-Sou um profissional de **Quality Assurance** focado em garantir a entrega de software com qualidade, eficiência e confiabilidade. Atuo com testes manuais e automação em diferentes camadas — UI, API e performance — sempre buscando as melhores práticas do mercado.
+Sou um profissional de **Quality Assurance** apaixonado por qualidade de software e automação de testes. Acredito que entregar software com qualidade não é um detalhe — é o que separa um bom produto de um ótimo produto.
 
-- 🔍 Especializado em **Automação de Testes**, **Testes de API** e **Testes de Performance**
-- 📋 Experiência com metodologias **BDD/Gherkin** e integração em pipelines **CI/CD**
-- 🚀 Sempre estudando novas ferramentas e frameworks do ecossistema QA
+- 🔍 Especialista em **Automação de Testes Web, API e Performance**
+- 🤖 Trabalho com **Cypress, Playwright, Robot Framework, Selenium e JMeter**
+- 📋 Experiência com **BDD/Gherkin** e pipelines de **CI/CD com GitHub Actions**
+- 🚀 Sempre estudando e evoluindo dentro do ecossistema QA
 
 ---
 
-## 🛠️ Ferramentas & Tecnologias
+### 🛠️ Linguagens e Tecnologias
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Robot Framework"/>
-  <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="JMeter"/>
-  <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="K6"/>
-  <img src="https://img.shields.io/badge/RestAssured-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="RestAssured"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,selenium,github,git,vscode&theme=dark" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
 ---
 
-## 📂 Projetos em Destaque
+### 📂 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
@@ -57,10 +54,11 @@ Sou um profissional de **Quality Assurance** focado em garantir a entrega de sof
 | [agi-blog-tests](https://github.com/felipenoite/agi-blog-tests) | Testes E2E para o Blog do Agi com Playwright e TypeScript | Playwright · TypeScript |
 | [dog-api-tests](https://github.com/felipenoite/dog-api-tests) | Testes automatizados de API REST com RestAssured e relatórios Allure | Java · JUnit 5 · RestAssured |
 | [blazedemo-performance-tests](https://github.com/felipenoite/blazedemo-performance-tests) | Testes de performance do fluxo de compra do BlazeDemo | Apache JMeter |
+| [robot-saucedemo](https://github.com/felipenoite/robot-saucedemo) | Automação Web do SauceDemo com Robot Framework e CI/CD | Robot Framework · Python |
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 📊 Estatísticas
 
 <p align="center">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipenoite&theme=default"/>
@@ -73,7 +71,7 @@ Sou um profissional de **Quality Assurance** focado em garantir a entrega de sof
 
 ---
 
-## 🎯 Áreas de Atuação
+### 🎯 Áreas de Atuação
 
 ```
 ✅ Testes Manuais          🤖 Automação de Testes
@@ -84,8 +82,5 @@ Sou um profissional de **Quality Assurance** focado em garantir a entrega de sof
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=felipenoite&color=blue&style=flat-square&label=Visitas+no+perfil" alt="Profile views"/>
+  <em>"Qualidade não é um ato, é um hábito." — Aristóteles</em>
 </p>
-
-<p align="center">
-  <em>"Qualidade não é um ato, é um hábito"</em>
