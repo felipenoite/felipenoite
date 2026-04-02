@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá, eu sou Felipe Noite</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Automação+de+Testes;Cypress+%7C+Playwright+%7C+Robot+Framework;Garantindo+qualidade+em+cada+linha+de+código+🔍" alt="Typing SVG" />
-</p>
+<h3 align="center">QA Engineer · Automação de Testes · CI/CD</h3>
+
+<br/>
 
 <p align="center">
   <a href="https://linkedin.com/in/felipenoite" target="_blank">
@@ -11,7 +11,10 @@
   <a href="mailto:seuemail@email.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=felipenoite&color=2E9EF7&style=for-the-badge&label=VISITAS" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=felipenoite&color=2E9EF7&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Profile views"/>
 </p>
 
 ---
@@ -30,18 +33,7 @@ Sou um profissional de **Quality Assurance** apaixonado por qualidade de softwar
 ### 🛠️ Linguagens e Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,selenium,github,git,vscode&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,selenium,postman,github,githubactions,git,vscode&theme=dark&perline=5" />
 </p>
 
 ---
